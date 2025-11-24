@@ -13,7 +13,7 @@ I’m Daniel Arenas, a Senior Ruby on Rails developer with more than 7 years of 
 🌱 Always learning — currently improving my English and exploring new technologies  
 🏆 Highlighted Experience  
 
-🛵 ## Picap — Ruby on Rails Developer (2024–2025)  
+🛵 ##Picap — Ruby on Rails Developer (2024–2025)  
 Improved code quality and team efficiency through testing and automation.  
 Created a complete RSpec + FactoryBot testing structure  
 Implemented CI pipelines using GitHub Actions  
@@ -21,7 +21,7 @@ Increased test coverage from 0% to 20%
 Built a complete billing report system generating Excel files  
 Integrated payment methods to optimize operational flows  
 
-🏠 ## laHaus — Senior Ruby on Rails Developer (2022–2024)
+🏠 ##laHaus — Senior Ruby on Rails Developer (2022–2024)
 Developed a complete meeting-scheduling system from scratch, integrating Google Calendar and Zoom using Ruby on Rails.  
 Automatically creates meetings, Zoom links, and Google Calendar events  
 Tracks attendance, duration, and customer engagement  
@@ -30,12 +30,12 @@ Scaled to 1,000+ weekly meetings
 Contributed to the migration from a Rails monolith to microservices  
 Improved reliability and deployment processes across teams  
 
-🍽 ## TodosComemos — Ruby on Rails Developer (2020–2022)  
+🍽 ##TodosComemos — Ruby on Rails Developer (2020–2022)  
 Developed new features focused on improving the user experience  
 Deployed on AWS, ensuring performance and scalability  
 Monitored and validated business hypotheses using real user data  
 
-💻 ## Develative — Ruby on Rails Developer (2017–2020)  
+💻 ##Develative — Ruby on Rails Developer (2017–2020)  
 Worked on multiple client projects, adapting to different stacks  
 Built scalable features and ensured clean, maintainable code  
 
