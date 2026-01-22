@@ -46,7 +46,7 @@ Built scalable features and ensured clean, maintainable code
 ## 🛠 Tech Stack
 ### Backend 
 
-** Ruby on Rails ** 
+Ruby on Rails  
 RSpec / FactoryBot  
 Redis / Sidekiq  
 REST APIs  
